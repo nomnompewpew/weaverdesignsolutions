@@ -5542,7 +5542,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<div id=\"my-store-15682426\"></div>\n<div>[JS_CODE_0][JS_CODE_1]</div>",
+          "_customHTML": "<div id=\"custom-html-q\"><div id=\"my-store-15682426\"></div>\n<div>[JS_CODE_0] \n[JS_CODE_1]</div></div>",
           "_customCSS": "",
           "alias": "code-editor",
           "_tags": [
@@ -5552,8 +5552,8 @@
           "_anchor": "custom-html-24",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?STOREID&data_platform=code\" charset=\"utf-8\"></script>",
-            "<script type=\"text/javascript\"> xProductBrowser(\"id=my-store-15682426\", \"defaultCategoryId=46192334\");</script>"
+            "<script type='text/javascript' data-cfasync=\"false\"\nsrc='https://app.ecwid.com/script.js?15682426'></script>",
+            "<script type='text/javascript'> xProductBrowser(\"id=my-store-\",\"defaultCategoryId=46192334\"); </script>"
           ]
         },
         {
