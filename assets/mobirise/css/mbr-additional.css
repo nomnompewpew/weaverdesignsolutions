@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Fjalla+One:400&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Anton:400&display=swap);
-@import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i&subset=cyrillic&display=swap);
+@import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i&display=swap);
 
 
 
@@ -921,95 +921,6 @@ section.lazy-placeholder:after {
     transform: none;
     box-shadow: none;
   }
-}
-.cid-rlfbCDCzHR {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-.cid-rlfbCDCzHR H1 {
-  color: #57468b;
-  text-align: center;
-}
-.cid-rlfbCDCzHR .mbr-text,
-.cid-rlfbCDCzHR .mbr-section-btn {
-  color: #716c80;
-}
-.cid-rlfbCDCzHR H3 {
-  color: #716c80;
-}
-.cid-rlfbvjNzpH {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #f2f6ff;
-}
-.cid-rlfbvjNzpH .mbr-text {
-  color: #716c80;
-  line-height: 2;
-}
-.cid-rlfbvjNzpH .price-text {
-  line-height: 1.5;
-  color: #716c80;
-}
-.cid-rlfbvjNzpH .card-title {
-  line-height: 1.5;
-  color: #57468b;
-  padding-top: 2rem;
-}
-.cid-rlfbvjNzpH .card-img {
-  padding-right: 2rem;
-}
-.cid-rlfbvjNzpH .card {
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
-  transition: all 0.3s;
-  padding: 3rem 1.5rem !important;
-}
-.cid-rlfbvjNzpH .card:hover {
-  box-shadow: 0 10px 55px 5px rgba(137, 173, 255, 0.35);
-}
-@media (max-width: 992px) {
-  .cid-rlfbvjNzpH .align-right,
-  .cid-rlfbvjNzpH .align-left {
-    text-align: center;
-  }
-  .cid-rlfbvjNzpH .card-title {
-    padding-top: 0rem;
-  }
-  .cid-rlfbvjNzpH .price {
-    margin-bottom: 0;
-  }
-  .cid-rlfbvjNzpH .card {
-    flex-direction: column;
-    align-items: center;
-    padding: 2rem 0!important;
-  }
-  .cid-rlfbvjNzpH .card .card-img {
-    margin-bottom: 0rem;
-  }
-  .cid-rlfbvjNzpH .card:hover {
-    transform: none;
-  }
-  .cid-rlfbvjNzpH .card-img {
-    padding: 0;
-  }
-}
-@media (max-width: 576px) {
-  .cid-rlfbvjNzpH .card:hover {
-    box-shadow: none;
-  }
-}
-.cid-rlfbvjNzpH .btn {
-  padding: 0.8rem 1.8rem;
-  margin: 0!important;
-  margin-top: 0.5rem;
-}
-.cid-rlfbvjNzpH .price {
-  color: #57468b;
-}
-.cid-rlfbvjNzpH .card-title B {
-  color: #57468b;
 }
 .cid-rRhVzZL1Aa {
   padding-top: 75px;
